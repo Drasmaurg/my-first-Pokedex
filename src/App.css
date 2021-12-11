@@ -49,7 +49,7 @@ body {
 .container {
   display: flex;
   opacity: 0.9;
-  background-color: rgb(226, 222, 222);
+  background-color: rgb(225, 222, 222);
   justify-content: center;
 }
 
