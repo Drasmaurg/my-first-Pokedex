@@ -37,7 +37,7 @@ import axios from "axios";
           <input
             type="text"
             onChange={handleChange}
-            placeholder="Escribe un Pokemon"
+            placeholder="Escribe un Pokémon"
           />
         </label>
       </form>
